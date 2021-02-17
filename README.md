@@ -1,2 +1,0 @@
-# auth-app
-Begin app

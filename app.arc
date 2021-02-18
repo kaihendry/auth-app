@@ -1,8 +1,10 @@
 @app
-begin-app
+login-flow
 
 @http
 get /
+get /register
+post /register
 
 @tables
 data

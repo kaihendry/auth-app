@@ -5,6 +5,10 @@ login-flow
 get /
 get /register
 post /register
+get /admin
+get /logout
+get /login
+post /login
 
 @tables
 data
